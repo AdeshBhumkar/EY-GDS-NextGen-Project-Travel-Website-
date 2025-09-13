@@ -1,4 +1,4 @@
-# -EY-GDS-NextGen-Internship-Project-Travel-Website-
+#Travel-Website-
 
 Currently developing a web application for booking travel accommodations using the MERN stack. The platform is designed to offer features like:
 
